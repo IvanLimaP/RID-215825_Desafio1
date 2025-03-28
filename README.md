@@ -2,4 +2,4 @@
 
 Link do site disponibilizado: https://rid215825-desafio1.netlify.app
 
-link da planilha de resgistro de informação: https://dashboard.sheetmonkey.io/](https://share.sheetmonkey.io/f/2GGy4CY8NphFXusFP8oJVB)
+link da planilha de resgistro de informação: https://share.sheetmonkey.io/f/2GGy4CY8NphFXusFP8oJVB
